@@ -1,9 +1,10 @@
 /* --------------------------------------
-=========================================
-Pixel | Agency - Responsive Mutipurpose HTML5 Template
-Version: 1.1 (Initial Release)
-Designed By: rkwebdesigns
-=========================================
+
+This file contains the media-query aspects of the CSS3
+fluid/responsive model.
+Mark Addinall - Brisbane
+ 
+ 
 */
 
 @media only screen and (min-width: 1201px) {
