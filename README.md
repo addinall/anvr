@@ -17,6 +17,8 @@ of mine in the future.  Or I can just spend a few moments
 a few times a year and do small mods myself as requested.
 A HUGE CMS is overkill.
 
+If I need anything fancier, the hooks are in here to introduce
+some React code.
 
 - W3C validation html
 - HTML5 and CSS3	
