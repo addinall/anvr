@@ -84,3 +84,62 @@
 }
 
 /*-------------------------------------------------------------------- */
+.Crimson {
+    background-color:	#8D230F;
+}
+
+
+.Gold2 {
+    background-color:	#C99E10;			 /* tools */
+    color: black;
+}
+
+.Forest {
+    background-color:	#1E434C;			 /* background */
+}
+
+.Rust {
+    background-color:	#9B4F0F;
+}
+
+/*-------------------------------------------------------------------- */
+
+.DarkNavy {
+    background-color:	#011A27;
+}
+
+
+.Tangerine {
+    background-color:	#F0810F;			 /* tools */
+}
+
+.Blueberry {
+    background-color:	#063852;			 /* background */
+}
+
+.Daffodil {
+    background-color:	#E6DF44;
+    color: black;
+}
+
+/*-------------------------------------------------------------------- */
+
+.Bark {
+    background-color:	#2E2300;
+}
+
+
+.Goldenrod {
+    background-color:	#DB9501;			 /* tools */
+}
+
+.Seaweed {
+    background-color:	#6E5702;			 /* background */
+}
+
+.Bronze {
+    background-color:	#C05805;
+}
+
+/*-------------------------------------------------------------------- */
+
