@@ -22,6 +22,8 @@
 //                The HTML code has been written as pretty discrete "chunks"
 //                or modules.  That way Clifton and I can swap panels and
 //                sections in and out of the site with ease.
+//
+//                Looks at bit tiny and simple.  It is meant to look tiny and simple.
 -->
 
 <!-- This file contains the CSS and JS includes, the statrt of the html code,
@@ -33,7 +35,7 @@
 <!--#include file="carousel.html"-->
 
 <!-- This is the first part of the content visible under the HERO slider -->
-<!--#include file-"top-content.html" -->
+<!--#include file="top-content.html"-->
 
 <!-- This is where the counter thingies used to live  -->
 <!--#include file="counters.html" -->
@@ -45,7 +47,7 @@
 <!--#include file="fat-panel.html"-->
 
 <!-- if the site uses a BLOG, give them the opportunity to have a re cent post snippet -->
-<!--#include file=recent-posts.html"-->
+<!--#include file="recent-posts.html"-->
 
 <!-- This is where the second carousel lived.  Removed as it is overkill for this project -->
 <!--#include file="slider-two.html" -->
@@ -61,6 +63,9 @@
 
 
 <!-- load the JS code last so it speeds up response in the boondocks -->
+<!-- builders, owners of buildings and other tradies on-site, on mobile,
+     are probably not going to have a 100/40 Mbps feed.  -->
+
 
 <script src="js/jquery.min.js"></script> 
 <script src="js/bootstrap.min.js"></script> 
